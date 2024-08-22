@@ -1,4 +1,4 @@
-# :wave: The Basics of Josh 
+# :wave: The Basics of josh
 
 ## 🤓 Course overview and learning outcomes 
 
