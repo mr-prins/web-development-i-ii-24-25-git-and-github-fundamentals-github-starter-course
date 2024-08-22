@@ -1,0 +1,1 @@
+I already read through the "The Basics Of Github" readme in Computer Programming 1. I also already created my profile README. Then created the repository "Student-097/Test_02" for this assignment. I have finished the assignment.
